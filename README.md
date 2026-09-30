@@ -10,7 +10,7 @@ The project demonstrates how to build a simple monitoring workflow using AWS-man
 
 ---
 
-## Architecture
+## ARCHITECTURE
 
 ```text
                     +----------------------+
